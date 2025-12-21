@@ -1,4 +1,4 @@
-# 🎬 MovieFinder Web Application
+# 🎬 Movie Searching Web Application
 
 A sleek, responsive React application built with Vite that allows users to discover movies using The Movie Database (TMDB) API. Users can search for their favorite titles and curate a personal collection of "Favorites."
 
