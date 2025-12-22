@@ -24,6 +24,12 @@ A sleek, responsive React application built with Vite that allows users to disco
 
 ---
 
+## 🚨 VPN Notice
+
+* This application relies on the TMDB API. In certain regions, TMDB services may be blocked or limited.
+
+* If the website does not display movies or search results, please use a **VPN** and refresh the page.
+
 ## 🚀 Tech Stack
 
 * **Frontend:** React (Vite)
@@ -52,4 +58,5 @@ movie-searching-website/
 └── package.json         # Project dependencies
 
 ```
+
 Good code is like a good movie — simple, clear, and worth watching. 🎬✨
