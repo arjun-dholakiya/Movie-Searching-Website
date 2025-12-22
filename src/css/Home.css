@@ -48,7 +48,21 @@
   }
 
   .search-form {
-    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    width: 100%;
+  }
+
+  .search-input {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .search-button {
+    width: auto;
+    padding: 0.6rem 1rem;
+    white-space: nowrap;
   }
 }
 
